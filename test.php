@@ -6,7 +6,7 @@
     <link rel="stylesheet" src="style.css">
 </head>
 <body>
-    <h1>Grad Student Database</h1>
+    <h1>Grad Student Database Test Page</h1>
     <p>
         <ul>
             <li> Student ID:
